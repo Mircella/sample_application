@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SampleApplication</string>
+    <string name="text_1">Bonjour le monde!</string>
+    <string name="text_2">Hello World!</string>
+    <string name="text_3">Guten Tag!</string>
+    <string name="button_text">Change color</string>
+</resources>
